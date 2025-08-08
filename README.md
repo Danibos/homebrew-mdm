@@ -29,7 +29,7 @@ The complete process is structured into three stages:
 - macOS Ventura and newer  
 - Apple Silicon (`arm64`) and Intel (`x86_64`)  
 - Tested with:
-  - Jamf Pro (standard user accounts)  
+  - Jamf Pro & Mosyle (standard user accounts)  
   - Homebrew installed at `/opt/homebrew` or `/usr/local`  
 
 ---
